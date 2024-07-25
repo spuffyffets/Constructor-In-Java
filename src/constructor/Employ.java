@@ -21,7 +21,9 @@ public class Employ {
 		System.out.println(age);
 		System.out.println(salary);
 		System.out.println(contact_no);
-	System.out.println();
+	        System.out.println();
+		System.out.println();
+	
 }
 
 }
